@@ -125,9 +125,9 @@ There is an array of integers. You need to remove the zeros from it. Only O(1) o
 </p>
 You can leave your answeras a link to your repository in GitHub
 
-<p align="center">
+<p align="left">
   Code Task Solutions
-  <a href src="./CodeTask.py" />
+  <link src="./CodeTask.py" />
 </p>
 
 ## Others
