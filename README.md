@@ -125,6 +125,10 @@ There is an array of integers. You need to remove the zeros from it. Only O(1) o
 </p>
 You can leave your answeras a link to your repository in GitHub
 
+<p align="center">
+  Code Task Solutions
+  <a href src="./CodeTask.py" />
+</p>
 
 ## Others
 
@@ -133,3 +137,9 @@ You can leave your answeras a link to your repository in GitHub
 * What competencies do you think a good tutor in your profession should have? Explain your opinion. Give examples from your own experience
 
 * Where did you study back-end development and how did you get into this profession?
+
+
+<p align="center">
+  The answers to all questions
+  <a href src="./TestAnswers.docx" />
+</p>
