@@ -41,35 +41,35 @@
 
 ## Django
 
-*How can I get the value of the <b>username</b> variable in the controller if it is passed from the page by the POST method?
+* How can I get the value of the <b>username</b> variable in the controller if it is passed from the page by the POST method?
  
- - request.POST.get('username)
- - request.POST['username']
- - request.POST.username
- - request.POST('username')
+    - request.POST.get('username)
+    - request.POST['username']
+    - request.POST.username
+    - request.POST('username')
 
 * Which command runs the development web server in Django?
 
- - python manage.py runserver
- - python manage.py devserver
- - python run server
- - python devserver run
+    - python manage.py runserver
+    - python manage.py devserver
+    - python run server
+    - python devserver run
 
 * What arguments in this code are passed to the view function?
 
-<b>path('/example/<int:id>/', example_view)</b>
+    <b>path('/example/<int:id>/', example_view)</b>
 
- - Named int argument that has an id type
- - Named id argumnet tha has an int type
- - Positioned int argument that has an id type
- - Positioned id argument that has and int type
+    - Named int argument that has an id type
+    - Named id argumnet tha has an int type
+    - Positioned int argument that has an id type
+    - Positioned id argument that has and int type
 
 * You need to write a controller that returns data from the database in the form of an object. On the basis of which class would you create it?
 
- - ListView
- - DetailView
- - RetrieveView
- - GetView
+    - ListView
+    - DetailView
+    - RetrieveView
+    - GetView
 
 * You have changed the models in a project. What commands do you need to run to commit changes and start migrations?
 
