@@ -118,18 +118,18 @@
 - Task 1.
 There are two list: you need to return the elements that are in the first list, but are missing in the second. Evaluate the effectiveness of your solution.
 
--Task 2.
+- Task 2.
 There is an array of integers. You need to remove the zeros from it. Only O(1) of additional memory can be used. Example:
 <p align="center">
-  <img height="200" src="./example.png" />
+  <img height="150" src="./example.png" />
 </p>
 You can leave your answeras a link to your repository in GitHub
 
 
-##Others
+## Others
 
 * Why do you want to become a Tutor in Practicum?
 
 * What competencies do you think a good tutor in your profession should have? Explain your opinion. Give examples from your own experience
 
-* Where did you study back-end development and how did you get into this profession
+* Where did you study back-end development and how did you get into this profession?
