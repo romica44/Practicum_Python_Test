@@ -127,7 +127,7 @@ You can leave your answeras a link to your repository in GitHub
 
 <p align="left">
   Code Task Solutions
-  <link src="./CodeTask.py" />
+  <a href src="https://github.com/romica44/Practicum_Python_Test/blob/main/CodeTask.py" />
 </p>
 
 ## Others
