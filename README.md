@@ -80,7 +80,7 @@
 * What types of JOIN queries in SQL do you know? Describe them and specify the differences beetween them.
 
 * There are two tables: A and B. The first table has 4 columns and 10 records, and the second one has 5 columns and 8 records. How many rows an columns willbe output with the
-<b style= "background-color:grey">selec * from A,B</b> query, and why?
+<b>select * from A,B</b> query, and why?
 
 * Indicate the main differences between SQL and NOSQL databases. Give examples how both of them can be used and explain your choice
 
