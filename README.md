@@ -125,12 +125,10 @@ There is an array of integers. You need to remove the zeros from it. Only O(1) o
 </p>
 You can leave your answeras a link to your repository in GitHub
 
+ 
+
 [Task Solutions](https://github.com/romica44/Practicum_Python_Test/blob/main/CodeTask.py)
 
-<p align="left">
-  Code Task Solutions
-  <a href src="https://github.com/romica44/Practicum_Python_Test/blob/main/CodeTask.py" />
-</p>
 
 ## Others
 
