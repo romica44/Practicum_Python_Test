@@ -123,8 +123,6 @@ There is an array of integers. You need to remove the zeros from it. Only O(1) o
 <p align="center">
   <img height="150" src="./example.png" />
 </p>
-You can leave your answeras a link to your repository in GitHub
-
  
 
 [Task Solutions](https://github.com/romica44/Practicum_Python_Test/blob/main/CodeTask.py)
@@ -139,7 +137,5 @@ You can leave your answeras a link to your repository in GitHub
 * Where did you study back-end development and how did you get into this profession?
 
 
-<p align="center">
-  The answers to all questions
-  <a href src="./TestAnswers.docx" />
-</p>
+  [The answers to all questions](https://github.com/romica44/Practicum_Python_Test/blob/main/TestAnswers.docx)
+
